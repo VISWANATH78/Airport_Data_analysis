@@ -1,0 +1,36 @@
+id,name,city,country,iata,icao,latitude,longitude,altitude,timezone_offset,dst,tz,type,source
+1,Goroka Airport,Goroka,Papua New Guinea,GKA,AYGA,-6.081689834590001,145.391998291,5282,10,U,Pacific/Port_Moresby,airport,OurAirports
+2,Madang Airport,Madang,Papua New Guinea,MAG,AYMD,-5.20707988739,145.789001465,20,10,U,Pacific/Port_Moresby,airport,OurAirports
+3,Mount Hagen Kagamuga Airport,Mount Hagen,Papua New Guinea,HGU,AYMH,-5.826789855957031,144.29600524902344,5388,10,U,Pacific/Port_Moresby,airport,OurAirports
+4,Nadzab Airport,Nadzab,Papua New Guinea,LAE,AYNZ,-6.569803,146.725977,239,10,U,Pacific/Port_Moresby,airport,OurAirports
+5,Port Moresby Jacksons International Airport,Port Moresby,Papua New Guinea,POM,AYPY,-9.443380355834961,147.22000122070312,146,10,U,Pacific/Port_Moresby,airport,OurAirports
+6,Wewak International Airport,Wewak,Papua New Guinea,WWK,AYWK,-3.58383011818,143.669006348,19,10,U,Pacific/Port_Moresby,airport,OurAirports
+5419,Buka Airport,Buka Island,Papua New Guinea,BUA,AYBK,-5.4223198890686035,154.67300415039062,11,10,U,Pacific/Port_Moresby,airport,OurAirports
+5420,Chimbu Airport,Kundiawa,Papua New Guinea,CMU,AYCH,-6.024290084838867,144.9709930419922,4974,10,U,Pacific/Port_Moresby,airport,OurAirports
+5421,Daru Airport,Daru,Papua New Guinea,DAU,AYDU,-9.08675956726,143.207992554,20,10,U,Pacific/Port_Moresby,airport,OurAirports
+5422,Gurney Airport,Gurney,Papua New Guinea,GUR,AYGN,-10.3114995956,150.333999634,88,10,U,Pacific/Port_Moresby,airport,OurAirports
+5423,Girua Airport,Girua,Papua New Guinea,PNP,AYGR,-8.80453968048,148.309005737,311,10,U,Pacific/Port_Moresby,airport,OurAirports
+5424,Kimbe Airport,Hoskins,Papua New Guinea,HKN,AYHK,-5.462170124053955,150.40499877929688,66,10,U,Pacific/Port_Moresby,airport,OurAirports
+5425,Kiunga Airport,Kiunga,Papua New Guinea,UNG,AYKI,-6.1257100105285645,141.28199768066406,88,10,U,Pacific/Port_Moresby,airport,OurAirports
+5426,Kikori Airport,Kikori,Papua New Guinea,KRI,AYKK,-7.424379825592041,144.2500762939453,50,10,U,Pacific/Port_Moresby,airport,OurAirports
+5427,Kerema Airport,Kerema,Papua New Guinea,KMA,AYKM,-7.96361017227,145.770996094,10,10,U,Pacific/Port_Moresby,airport,OurAirports
+5428,Kavieng Airport,Kavieng,Papua New Guinea,KVG,AYKV,-2.57940006256,150.807998657,7,10,U,Pacific/Port_Moresby,airport,OurAirports
+5429,Mendi Airport,Mendi,Papua New Guinea,MDU,AYMN,-6.14774,143.656998,5680,10,U,Pacific/Port_Moresby,airport,OurAirports
+5430,Momote Airport,Momote,Papua New Guinea,MAS,AYMO,-2.06189,147.423996,12,10,U,Pacific/Port_Moresby,airport,OurAirports
+5431,Moro Airport,Moro,Papua New Guinea,MXH,AYMR,-6.36332988739,143.238006592,2740,10,U,Pacific/Port_Moresby,airport,OurAirports
+5432,Misima Island Airport,Misima Island,Papua New Guinea,MIS,AYMS,-10.689200401299999,152.837997437,26,10,U,Pacific/Port_Moresby,airport,OurAirports
+5433,Tari Airport,Tari,Papua New Guinea,TIZ,AYTA,-5.84499979019,142.947998047,5500,10,U,Pacific/Port_Moresby,airport,OurAirports
+5434,Tabubil Airport,Tabubil,Papua New Guinea,TBG,AYTB,-5.27861,141.225998,1570,10,U,Pacific/Port_Moresby,airport,OurAirports
+5435,Tokua Airport,Tokua,Papua New Guinea,RAB,AYTK,-4.34045982361,152.380004883,32,10,U,Pacific/Port_Moresby,airport,OurAirports
+5436,Vanimo Airport,Vanimo,Papua New Guinea,VAI,AYVN,-2.6926,141.3028,10,10,U,Pacific/Port_Moresby,airport,OurAirports
+5437,Wapenamanda Airport,Wapenamanda,Papua New Guinea,WBM,AYWD,-5.6433000564575195,143.89500427246094,5889,10,U,Pacific/Port_Moresby,airport,OurAirports
+5982,Balimo Airport,Balimo,Papua New Guinea,OPU,AYBM,-8.05000019073,142.932998657,51,10,U,Pacific/Port_Moresby,airport,OurAirports
+5986,Baimuru Airport,Baimuru,Papua New Guinea,VMU,AYBA,-7.49686002731,144.819900513,27,10,U,Pacific/Port_Moresby,airport,OurAirports
+11018,Efogi Airport,Efogi,Papua New Guinea,EFG,AYEF,-9.15380555556,147.659805556,3900,10,N,\N,airport,OurAirports
+11019,Kagi Airport,Kagi,Papua New Guinea,KGW,AYKQ,-9.135916666670001,147.669444444,4200,10,N,\N,airport,OurAirports
+11020,Nadunumu Airport,Nadunumu,Papua New Guinea,NDN,AYNC,-9.14355555556,147.68425,5100,10,N,\N,airport,OurAirports
+11021,Bodinumu Airport,Bodinumu,Papua New Guinea,BNM,AYBD,-9.107777777779999,147.666722222,3700,10,N,\N,airport,OurAirports
+11355,Kaintiba Airport,Kieta,Papua New Guinea,KZF,AYKT,-7.50025,146.033833333,2050,10,U,\N,airport,OurAirports
+12945,Simberi Airport,Simberi Island,Papua New Guinea,NIS,AYSE,-2.66222222222,151.997777778,10,10,N,\N,airport,OurAirports
+12946,Bulolo Airport,Bulolo,Papua New Guinea,BUL,AYBU,-7.216286671410001,146.649541855,2240,10,N,\N,airport,OurAirports
+13631,Sasereme Airport,Sasereme,Papua New Guinea,TDS,AYSS,-7.6217,142.868,121,10,N,\N,airport,OurAirports
